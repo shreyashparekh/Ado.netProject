@@ -5,6 +5,7 @@ namespace PrjAdo.NetEg
 
     class Student:College
     {
+	Console.WriteLine("Aditya Baravkar")
         internal int id = 101;
 
         internal void DisplayStudent()
