@@ -11,6 +11,7 @@ namespace PrjAdo.NetEg
         internal void DisplayStudent()
         {
             Console.WriteLine("CollegeName:{0} || StudentId:{0}",collegename,id);
+		Console.WriteLine("Shreyash Parekh")
         }
     }
    
